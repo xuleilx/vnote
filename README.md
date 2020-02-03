@@ -31,6 +31,7 @@ scoop update vnote
 ```
 
 ## Linux
+更新ppa https://launchpad.net/~beineri
 ### AppImage
 [![Build Status](https://travis-ci.org/tamlok/vnote.svg?branch=master)](https://travis-ci.org/tamlok/vnote)
 
